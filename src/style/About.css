@@ -1,7 +1,4 @@
 /* About.css */
-/* This CSS file styles the About component of a React application. */
-/* It includes styles for the main container, profile image, headings, paragraphs, */
-/* cards, testimonials, and contact information. The design is responsive for */
 
 * {
   margin: 0;
@@ -36,7 +33,7 @@ body {
 
 .main-content {
   /* min-height: 70vh; */
-  min-width: 75vw;
+  min-width: 78vw;
   padding: 10px 20px;
   border-radius: 12px;
   background-color: rgba(255, 255, 255, 0.1); /* Slightly transparent white */

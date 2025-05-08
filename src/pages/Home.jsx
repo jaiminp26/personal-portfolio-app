@@ -1,7 +1,6 @@
-
 import React from "react";
 import { FaInstagram, FaLinkedin, FaGithub } from "react-icons/fa";
-import "../style/Home.css"; 
+import "../style/Home.css"; // Import the external CSS file
 
 function Home() {
   return (
@@ -14,13 +13,14 @@ function Home() {
         />
         <h1 className="mb-3">Hello, I'm Jaimin Prajapati</h1>
         <p className="lead">
-          As a dedicated Full-Stack Developer, <br />I specialize in crafting dynamic and responsive web applications
-          that provide seamless user experiences. With a strong foundation in
-          both front-end and back-end technologies, <br />I have successfully developed and deployed projects ranging from
-          interactive user interfaces to robust server-side applications. My
-          passion lies in continuously exploring new technologies and
-          methodologies to deliver innovative solutions that meet and exceed
-          client expectations.
+          As a dedicated Full-Stack Developer, <br />I specialize in crafting
+          dynamic and responsive web applications that provide seamless user
+          experiences. With a strong foundation in both front-end and back-end
+          technologies, <br />I have successfully developed and deployed
+          projects ranging from interactive user interfaces to robust
+          server-side applications. My passion lies in continuously exploring
+          new technologies and methodologies to deliver innovative solutions
+          that meet and exceed client expectations.
         </p>
         <div className="d-flex justify-content-center gap-4 mt-4">
           <a

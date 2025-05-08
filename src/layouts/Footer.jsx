@@ -1,6 +1,7 @@
 import React from "react";
+import { FaEnvelope, FaPhoneAlt, FaMapMarkerAlt } from "react-icons/fa";
 import { FaInstagram, FaLinkedin, FaGithub } from "react-icons/fa";
-import "../style/Footer.css";  // Ensure this CSS file is correctly linked
+import "../style/Footer.css"; // Import the external CSS file
 
 function Footer() {
   return (
@@ -23,9 +24,18 @@ function Footer() {
           <div className="col-md-4 mb-4 mb-md-0">
             <h5>Contact Me</h5>
             <ul className="list-unstyled">
-              <li>Email: jigarprajapati26122003@gmail.com</li>
-              <li>Phone: +91 7567600738</li>
-              <li>Location: Ahmedabad, Gujarat, India</li>
+              <li>
+                <FaEnvelope className="me-2" />
+                jigarprajapati26122003@gmail.com
+              </li>
+              <li>
+                <FaPhoneAlt className="me-2" />
+                +91 7567600738
+              </li>
+              <li>
+                <FaMapMarkerAlt className="me-2" />
+                Ahmedabad, Gujarat, India
+              </li>
             </ul>
           </div>
           {/* Social Media Links */}

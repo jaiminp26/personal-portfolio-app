@@ -1,10 +1,5 @@
 /* Home.css */
-/* This CSS file styles the Home component of a React application.
-   It includes styles for the main container, profile image, headings,
-   paragraphs, social icons, and buttons. The design is responsive for
-   different screen sizes. */
 
-/* CSS Code */
 * {
   margin: 0;
   padding: 0;
@@ -121,7 +116,4 @@ p.lead {
   }
 }
 /* End of CSS Code */
-/* The CSS styles above create a visually appealing and responsive design for the Home component.
-   The use of CSS variables allows for easy customization of colors, and the media queries ensure that
-   the layout adapts well to different screen sizes. The hover effects on social icons and buttons
-   enhance user interaction, making the interface more engaging. */
+

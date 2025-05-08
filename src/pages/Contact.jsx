@@ -1,5 +1,5 @@
 import React from "react";
-import "../style/Contact.css"; 
+import "../style/Contact.css"; // Import the external CSS file
 import { useForm } from "react-hook-form";
 import { Button } from "react-bootstrap";
 // import { db } from "../firebase"; // Make sure to import firebase config

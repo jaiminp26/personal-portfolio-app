@@ -1,5 +1,5 @@
 import React from "react";
-import "../style/Skills.css"; 
+import "../style/Skills.css"; // Import the external CSS file
 import {
   FaHtml5,
   FaCss3Alt,
