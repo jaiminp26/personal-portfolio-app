@@ -143,6 +143,7 @@
 }
 
 /* Responsive Styles */
+
 @media (max-width: 768px) {
   .contact-container {
     padding: 40px 15px;
