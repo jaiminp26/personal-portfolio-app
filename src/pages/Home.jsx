@@ -52,7 +52,7 @@ function Home() {
           </a>
         </div>
         <a
-          href="/resume/jaiminpcv.pdf"
+          href="/resume/jaimins_resume.pdf"
           download
           className="btn btn-custom btn-lg mt-4"
         >

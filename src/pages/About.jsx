@@ -93,7 +93,7 @@ function About() {
           Download my resume to learn more about my professional journey and
           accomplishments.
         </p>
-        <a href="/resume/jaiminpcv.pdf" download className="resume-button">
+        <a href="/resume/jaimins_resume.pdf" download className="resume-button">
           Download
         </a>
       </section>
